@@ -1,0 +1,92 @@
+erDiagram
+    EMPRESA ||--o{ EMAIL_EMPRESA : possui
+    EMPRESA ||--o{ TELEFONE_EMPRESA : possui
+    EMPRESA ||--o{ CONTA : possui
+    CONTA ||--o{ LANCAMENTO : registra
+    CATEGORIA ||--o{ LANCAMENTO : classifica
+    UF ||--o{ CIDADE : possui
+    TIPO_LOGRADOURO ||--o{ LOGRADOURO : classifica
+    BAIRRO ||--o{ ENDERECO : referencia
+    CIDADE ||--o{ ENDERECO : referencia
+    LOGRADOURO ||--o{ ENDERECO : referencia
+    ENDERECO ||--o{ EMPRESA : localiza
+    DDI ||--o{ TELEFONE_EMPRESA : "codigo UK"
+    DDD ||--o{ TELEFONE_EMPRESA : "codigo UK"
+    EMPRESA {
+        bigint id PK
+        varchar cnpj UK
+        varchar razao_social
+        bigint endereco_id FK
+        endereco_completo endereco "T4B: tipo_logradouro, logradouro, numero, complemento, bairro, cidade, uf, cep"
+    }
+    EMAIL_EMPRESA {
+        bigint id PK
+        bigint empresa_id FK
+        varchar email "UK empresa_id + email"
+    }
+    TELEFONE_EMPRESA {
+        bigint id PK
+        bigint empresa_id FK
+        varchar ddi FK
+        varchar ddd FK
+        varchar numero "UK empresa_id + ddi + ddd + numero"
+    }
+    CONTA {
+        bigint id PK
+        bigint empresa_id FK
+        varchar nome "UK empresa_id + nome"
+        numeric saldo_inicial
+        numeric saldo_atual
+    }
+    CATEGORIA {
+        bigint id PK
+        varchar descricao UK
+        char natureza "R ou D"
+    }
+    LANCAMENTO {
+        bigint id PK
+        bigint conta_id FK
+        bigint categoria_id FK
+        date data_lancamento
+        varchar documento "UK conta_id + documento"
+        varchar observacao
+        numeric valor
+        timestamptz criado_em
+    }
+    UF {
+        bigint id PK
+        char sigla UK
+    }
+    CIDADE {
+        bigint id PK
+        varchar nome
+        bigint uf_id FK
+    }
+    BAIRRO {
+        bigint id PK
+        varchar nome UK
+    }
+    TIPO_LOGRADOURO {
+        bigint id PK
+        varchar nome UK
+    }
+    LOGRADOURO {
+        bigint id PK
+        varchar nome
+        bigint tipo_logradouro_id FK
+    }
+    ENDERECO {
+        bigint id PK
+        varchar cep
+        bigint bairro_id FK
+        bigint cidade_id FK
+        bigint logradouro_id FK
+    }
+    DDI {
+        bigint id PK
+        varchar codigo UK
+    }
+    DDD {
+        bigint id PK
+        varchar codigo UK
+    }

@@ -1,0 +1,15 @@
+VERIFICACAO DO BANCO REAL APOS A ADICAO DAS TABELAS
+Servidor: 127.0.0.1:6666 | bd_t4_individual / financeiro
+OK | 14 tabelas fisicas e 13 chaves estrangeiras
+OK | As seis tabelas anteriores mantiveram os mesmos nomes e todos os dados comparados com o backup
+OK | endereco_completo mantido com os oito campos; nenhum endereco_especifico criado
+Campos atuais do tipo:
+tipo_logradouro|character varying(30)
+logradouro|character varying(120)
+numero|character varying(20)
+complemento|character varying(80)
+bairro|character varying(80)
+cidade|character varying(80)
+uf|character(2)
+cep|character varying(8)
+OK | Verificacao somente de leitura; nenhum lancamento de teste gravado no banco real

@@ -1,0 +1,15 @@
+* text=auto
+*.java text eol=lf
+*.sql text eol=lf
+*.md text eol=lf
+*.mmd text eol=lf
+*.xml text eol=lf
+*.properties text eol=lf
+*.py text eol=lf
+*.svg text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+*.pdf binary
+*.png binary
+*.jpg binary
+*.mwb binary

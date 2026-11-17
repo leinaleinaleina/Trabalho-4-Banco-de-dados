@@ -1,0 +1,63 @@
+VERIFICACAO T4A A T4D
+T4A: seis tabelas, dados minimos e saldos corretos.
+T4B: INSERT e SELECT do composto, com CHECK rejeitando endereco incompleto.
+T4C | PERMISSOES VERIFICADAS PELO POSTGRESQL
+
+Login real: bdt4_ind_admin (sem superusuario)
+  SELECT: permitido
+  INSERT: permitido
+  UPDATE: permitido
+  DELETE: permitido
+  Registros de teste desfeitos por ROLLBACK.
+
+Login real: bdt4_ind_leitor (sem superusuario)
+  SELECT: permitido
+  INSERT: negado pelo banco (SQLSTATE 42501)
+  UPDATE: negado pelo banco (SQLSTATE 42501)
+  DELETE: negado pelo banco (SQLSTATE 42501)
+  Registros de teste desfeitos por ROLLBACK.
+
+Login real: bdt4_ind_operador (sem superusuario)
+  SELECT: permitido
+  INSERT: permitido
+  DELETE: negado pelo banco (SQLSTATE 42501)
+  UPDATE: negado pelo banco (SQLSTATE 42501)
+  Registros de teste desfeitos por ROLLBACK.
+
+T4D | COMMIT
+
+Conta: 1 | Lancamento: T4D-dc94429a-35a6-4511-87f8-eaa6d5877d3d
+Valor: R$ 10,00 | Natureza: R
+Saldo antes: 1150.00
+Saldo depois: 1160.00
+Lancamentos persistidos com este documento: 1
+
+COMMIT confirmou as duas modificacoes.
+Estado final confirmado por outra conexao JDBC.
+
+T4D | ROLLBACK
+
+Conta: 1 | Lancamento: T4D-e736ca3c-ddff-4607-891f-4c67f0e9dca6
+Valor: R$ 10,00 | Natureza: R
+Saldo antes: 1160.00
+Saldo depois: 1160.00
+Lancamentos persistidos com este documento: 0
+
+ROLLBACK intencional desfez as duas modificacoes.
+Estado final confirmado por outra conexao JDBC.
+
+T4D | ABRUPTA
+
+Conta: 1 | Lancamento: T4D-e611c7b1-ff3a-43cf-9a60-cba13cdedfeb
+Valor: R$ 10,00 | Natureza: R
+Saldo antes: 1160.00
+Saldo depois: 1160.00
+Lancamentos persistidos com este documento: 0
+
+Processo auxiliar terminou com codigo 23 apos enviar INSERT e UPDATE.
+Nao chamou COMMIT, ROLLBACK ou close().
+O PostgreSQL desfez a transacao aberta quando a conexao foi perdida.
+Estado final confirmado por outra conexao JDBC.
+
+TODAS AS VERIFICACOES PASSARAM.
+A demonstracao COMMIT acrescentou uma receita real de R$ 10,00 na conta de teste.

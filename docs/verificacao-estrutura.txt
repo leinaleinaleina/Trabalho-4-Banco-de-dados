@@ -1,0 +1,19 @@
+VERIFICACAO DA REFATORACAO ESTRUTURAL
+JDK 21, alvo Java 17; PostgreSQL temporario na porta 5545
+
+OK | Todos os scripts SQL identicos aos anteriores: nenhuma mudanca de estrutura ou carga
+OK | Somente quatro DAOs usados pelos fluxos atuais
+OK | DAOs sem transacoes, conexoes proprias ou modelos aninhados
+OK | Services sem leitura, impressao ou dependencia de console/controller
+OK | Controllers conduzem fluxos; console nao chama Service/DAO; nenhum deles controla transacoes
+OK | Modelos tipados independentes, testes em src/test e Aplicacao como entrada preservada
+OK | Saida equivalente a versao anterior: menu e saida
+OK | Saida equivalente a versao anterior: empresas, contatos e todos os extratos
+OK | Saida equivalente a versao anterior: escolha de empresa e conta
+OK | Saida equivalente a versao anterior: perfis de acesso
+OK | Saida equivalente a versao anterior: voltar numa lista
+OK | Saida equivalente a versao anterior: numero de opcao invalido
+OK | Saida equivalente a versao anterior: cancelamento de cadastro
+OK | Saida equivalente a versao anterior: interrupcao abrupta e rollback
+
+Cadastros e atomicidade tambem conferidos em verificacao-console.txt e verificacao-services.txt.

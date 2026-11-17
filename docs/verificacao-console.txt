@@ -1,0 +1,18 @@
+VERIFICACAO DO MENU NO CONSOLE
+PostgreSQL 18.1 | JDK 21, alvo Java 17
+Banco temporario isolado, porta 5545
+
+OK | Preparacao pelo console sem reaplicar carga ou abrir janelas
+OK | Menu numerado, entrada invalida, voltar, SELECT de empresas e quatro extratos
+OK | Extrato alinhado com categorias, valores, natureza e saldo
+OK | Login por ID: tres usuarios reais, INSERT negado ao leitor e DELETE negado ao operador
+OK | Cancelar COMMIT nao grava lancamento
+OK | COMMIT grava uma vez; queda abrupta e ROLLBACK nao persistem
+OK | Cadastro de lancamento digitado, data estrita e valor decimal com virgula
+OK | Opcao de despesa usa categoria D selecionada no console
+OK | INSERT de empresa com tipo composto, CNPJ/UF/CEP normalizados e contatos consultados
+OK | Cancelar cadastro nao grava empresa
+OK | Fim da entrada encerra sem loop ou cadastro parcial
+OK | Todos os saldos permanecem consistentes apos os cenarios
+
+Todos os cenarios passaram. Sem alteracoes nos dados da porta 6666.

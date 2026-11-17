@@ -1,0 +1,10 @@
+VERIFICACAO DAS TABELAS DO MER
+Somente PostgreSQL temporario na porta 5545
+
+OK | Definicao original das seis tabelas e do tipo de oito campos preservada integralmente no SQL
+OK | atualizacao: 14 tabelas fisicas, 13 FKs, dados preservados, tipo com mesmo OID/campos/tamanhos e repeticao segura
+OK | instalacao_nova: 14 tabelas fisicas, 13 FKs, dados preservados, tipo com mesmo OID/campos/tamanhos e repeticao segura
+OK | Banco de testes usado pelo Java possui as 14 tabelas preenchidas e relacionamentos consistentes
+OK | Falha no telefone desfaz empresa, contatos e todos os novos cadastros de endereco/DDI/DDD nas 14 tabelas
+OK | Cadastro Java cria o composto original e vincula efetivamente as novas tabelas, inclusive novos DDI/DDD
+OK | FK impede excluir DDI que ainda possui telefone relacionado

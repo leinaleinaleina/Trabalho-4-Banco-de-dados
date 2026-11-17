@@ -1,0 +1,15 @@
+VERIFICACAO T4D - SQL, RESULTADOS E ERROS ORIGINAIS
+PostgreSQL temporario, porta 5545; banco da apresentacao preservado
+
+OK | Opcao 6, categoria 1: SQLs e RETURNING reais; consulta por outra conexao confirma saldo e persistencia
+OK | Opcao 6, categoria 4: SQLs e RETURNING reais; consulta por outra conexao confirma saldo e persistencia
+OK | Opcao 7, categoria 1: SQLs e RETURNING reais; consulta por outra conexao confirma saldo e persistencia
+OK | Opcao 8, categoria 1: SQLs e RETURNING reais; consulta por outra conexao confirma saldo e persistencia
+OK | Cancelar COMMIT preserva dados e nao inicia a transacao
+OK | Opcao 6: erro original de UPDATE, ROLLBACK e ausencia do INSERT anterior
+OK | Opcao 7: erro original de UPDATE, ROLLBACK e ausencia do INSERT anterior
+OK | Opcao 8: erro original de UPDATE, ROLLBACK e ausencia do INSERT anterior
+OK | RETURNING exibe alteracao feita no servidor, sem copiar o texto enviado pelo programa
+OK | Mesmos quatro DAOs; transacoes nos services e saldos consistentes
+
+Todos os cenarios passaram.

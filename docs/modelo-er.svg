@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="500" height="540" preserveAspectRatio="xMinYMin meet" viewBox="0 0 500 540" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="500" height="540"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-540)" style="clip-path: url(#clip)">
+		<g transform=" matrix(1,0,0,0.9,0,0)">
+			<path d="M 72,525 L 72,500 Z" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="72 500, 69.5 506, 74.5 506" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,54%); fill-rule: evenodd;"/>
+			<text x="80" y="510" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(3%,49%,54%); stroke:none;" transform="translate(0,1020) scale(1,-1)">1:N</text>
+			<path d="M 145,457 L 151,457 Z" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 151,457 L 151,550 Z" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 151,550 L 165,550 Z" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="165 550, 159 547.5, 159 552.5" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,54%); fill-rule: evenodd;"/>
+			<path d="M 145,342 L 157,342 Z" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 157,342 L 157,520 Z" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 157,520 L 165,520 Z" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="165 520, 159 517.5, 159 522.5" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,54%); fill-rule: evenodd;"/>
+			<path d="M 72,205 L 72,170 Z" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="72 170, 69.5 176, 74.5 176" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,54%); fill-rule: evenodd;"/>
+			<text x="80" y="185" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(3%,49%,54%); stroke:none;" transform="translate(0,370) scale(1,-1)">1:N</text>
+			<path d="M 145,125 L 162,125 Z" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 162,125 L 162,490 Z" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 162,490 L 165,490 Z" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="165 490, 159 487.5, 159 492.5" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,54%); fill-rule: evenodd;"/>
+			<path d="M 245,475 L 245,440 Z" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="245 440, 242.5 446, 247.5 446" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,54%); fill-rule: evenodd;"/>
+			<text x="253" y="454" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(3%,49%,54%); stroke:none;" transform="translate(0,908) scale(1,-1)">1:N</text>
+			<path d="M 245,315 L 245,275 Z" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="245 275, 242.5 281, 247.5 281" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,54%); fill-rule: evenodd;"/>
+			<text x="253" y="292" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(3%,49%,54%); stroke:none;" transform="translate(0,584) scale(1,-1)">1:N</text>
+			<path d="M 245,160 L 245,130 Z" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="245 130, 242.5 136, 247.5 136" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,54%); fill-rule: evenodd;"/>
+			<text x="253" y="141" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(3%,49%,54%); stroke:none;" transform="translate(0,282) scale(1,-1)">1:N</text>
+			<path d="M 325,400 L 350,365 Z" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="350 365, 344.4782 368.4293, 348.5469 371.3355" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,54%); fill-rule: evenodd;"/>
+			<path d="M 325,335 L 337,335 Z" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 337,335 L 337,215 Z" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 337,215 L 350,215 Z" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="350 215, 344 212.5, 344 217.5" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,54%); fill-rule: evenodd;"/>
+			<path d="M 350,555 L 342,555 Z" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 342,555 L 342,385 Z" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 342,385 L 350,385 Z" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="350 385, 344 382.5, 344 387.5" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,54%); fill-rule: evenodd;"/>
+			<path d="M 422,435 L 422,405 Z" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="422 405, 419.5 411, 424.5 411" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,54%); fill-rule: evenodd;"/>
+			<text x="430" y="417" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(3%,49%,54%); stroke:none;" transform="translate(0,834) scale(1,-1)">1:N</text>
+			<path d="M 350,50 L 325,50 Z" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="325 50, 331 52.5, 331 47.5" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,54%); fill-rule: evenodd;"/>
+			<text x="328" y="59" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(3%,49%,54%); stroke:none;" transform="translate(0,118) scale(1,-1)">1:N</text>
+			<rect x="0" y="525" width="145" height="60" rx="4" ry="4" style="stroke: rgb(9%,20%,30%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="0" y="562" width="145" height="23" style="stroke: rgb(9%,20%,30%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,20%,30%); fill-rule: evenodd;"/>
+			<text x="7" y="570" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,1140) scale(1,-1)">UF</text>
+			<text x="7" y="548" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,1096) scale(1,-1)">PK id</text>
+			<text x="7" y="538" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,1076) scale(1,-1)">UK sigla : char(2)</text>
+			<rect x="0" y="415" width="145" height="85" rx="4" ry="4" style="stroke: rgb(9%,20%,30%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="0" y="477" width="145" height="23" style="stroke: rgb(9%,20%,30%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,20%,30%); fill-rule: evenodd;"/>
+			<text x="7" y="485" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,970) scale(1,-1)">CIDADE</text>
+			<text x="7" y="463" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,926) scale(1,-1)">PK id</text>
+			<text x="7" y="453" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,906) scale(1,-1)">nome : varchar(80)</text>
+			<text x="7" y="443" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,886) scale(1,-1)">FK uf_id</text>
+			<text x="7" y="433" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,866) scale(1,-1)">UK nome + uf_id</text>
+			<rect x="0" y="310" width="145" height="65" rx="4" ry="4" style="stroke: rgb(9%,20%,30%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="0" y="352" width="145" height="23" style="stroke: rgb(9%,20%,30%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,20%,30%); fill-rule: evenodd;"/>
+			<text x="7" y="360" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,720) scale(1,-1)">BAIRRO</text>
+			<text x="7" y="338" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,676) scale(1,-1)">PK id</text>
+			<text x="7" y="328" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,656) scale(1,-1)">UK nome : varchar(80)</text>
+			<rect x="0" y="205" width="145" height="65" rx="4" ry="4" style="stroke: rgb(9%,20%,30%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="0" y="247" width="145" height="23" style="stroke: rgb(9%,20%,30%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,20%,30%); fill-rule: evenodd;"/>
+			<text x="7" y="255" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,510) scale(1,-1)">TIPO_LOGRADOURO</text>
+			<text x="7" y="233" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,466) scale(1,-1)">PK id</text>
+			<text x="7" y="223" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,446) scale(1,-1)">UK nome : varchar(30)</text>
+			<rect x="0" y="80" width="145" height="90" rx="4" ry="4" style="stroke: rgb(9%,20%,30%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="0" y="147" width="145" height="23" style="stroke: rgb(9%,20%,30%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,20%,30%); fill-rule: evenodd;"/>
+			<text x="7" y="155" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,310) scale(1,-1)">LOGRADOURO</text>
+			<text x="7" y="133" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,266) scale(1,-1)">PK id</text>
+			<text x="7" y="123" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,246) scale(1,-1)">nome : varchar(120)</text>
+			<text x="7" y="113" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,226) scale(1,-1)">FK tipo_logradouro_id</text>
+			<text x="7" y="103" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,206) scale(1,-1)">UK nome + tipo_logradouro_id</text>
+			<rect x="165" y="475" width="160" height="110" rx="4" ry="4" style="stroke: rgb(9%,20%,30%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="165" y="562" width="160" height="23" style="stroke: rgb(9%,20%,30%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,20%,30%); fill-rule: evenodd;"/>
+			<text x="172" y="570" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,1140) scale(1,-1)">ENDERECO</text>
+			<text x="172" y="548" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,1096) scale(1,-1)">PK id</text>
+			<text x="172" y="538" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,1076) scale(1,-1)">cep : varchar(8)</text>
+			<text x="172" y="528" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,1056) scale(1,-1)">FK bairro_id</text>
+			<text x="172" y="518" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,1036) scale(1,-1)">FK cidade_id</text>
+			<text x="172" y="508" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,1016) scale(1,-1)">FK logradouro_id</text>
+			<rect x="165" y="315" width="160" height="125" rx="4" ry="4" style="stroke: rgb(9%,20%,30%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="165" y="417" width="160" height="23" style="stroke: rgb(9%,20%,30%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,20%,30%); fill-rule: evenodd;"/>
+			<text x="172" y="425" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,850) scale(1,-1)">EMPRESA</text>
+			<text x="172" y="403" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,806) scale(1,-1)">PK id</text>
+			<text x="172" y="393" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,786) scale(1,-1)">UK cnpj : varchar(14)</text>
+			<text x="172" y="383" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,766) scale(1,-1)">razao_social : varchar(150)</text>
+			<text x="172" y="373" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,746) scale(1,-1)">FK endereco_id</text>
+			<text x="172" y="363" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,726) scale(1,-1)">endereco : endereco_completo</text>
+			<text x="172" y="353" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,706) scale(1,-1)">T4B: mesmos 8 campos</text>
+			<rect x="165" y="160" width="160" height="115" rx="4" ry="4" style="stroke: rgb(9%,20%,30%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="165" y="252" width="160" height="23" style="stroke: rgb(9%,20%,30%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,20%,30%); fill-rule: evenodd;"/>
+			<text x="172" y="260" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,520) scale(1,-1)">CONTA</text>
+			<text x="172" y="238" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,476) scale(1,-1)">PK id</text>
+			<text x="172" y="228" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,456) scale(1,-1)">FK empresa_id</text>
+			<text x="172" y="218" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,436) scale(1,-1)">nome : varchar(100)</text>
+			<text x="172" y="208" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,416) scale(1,-1)">saldo_inicial : numeric(14,2)</text>
+			<text x="172" y="198" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,396) scale(1,-1)">saldo_atual : numeric(14,2)</text>
+			<text x="172" y="188" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,376) scale(1,-1)">UK empresa_id + nome</text>
+			<rect x="165" y="0" width="160" height="130" rx="4" ry="4" style="stroke: rgb(9%,20%,30%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="165" y="107" width="160" height="23" style="stroke: rgb(9%,20%,30%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,20%,30%); fill-rule: evenodd;"/>
+			<text x="172" y="115" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,230) scale(1,-1)">LANCAMENTO</text>
+			<text x="172" y="93" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,186) scale(1,-1)">PK id</text>
+			<text x="172" y="83" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,166) scale(1,-1)">FK conta_id / FK categoria_id</text>
+			<text x="172" y="73" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,146) scale(1,-1)">data_lancamento : date</text>
+			<text x="172" y="63" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,126) scale(1,-1)">documento : varchar(60)</text>
+			<text x="172" y="53" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,106) scale(1,-1)">observacao : varchar(300)</text>
+			<text x="172" y="43" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,86) scale(1,-1)">valor : numeric(14,2)</text>
+			<text x="172" y="33" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,66) scale(1,-1)">criado_em : timestamptz</text>
+			<text x="172" y="23" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,46) scale(1,-1)">UK conta_id + documento</text>
+			<rect x="350" y="525" width="145" height="60" rx="4" ry="4" style="stroke: rgb(9%,20%,30%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="350" y="562" width="145" height="23" style="stroke: rgb(9%,20%,30%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,20%,30%); fill-rule: evenodd;"/>
+			<text x="357" y="570" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,1140) scale(1,-1)">DDI</text>
+			<text x="357" y="548" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,1096) scale(1,-1)">PK id</text>
+			<text x="357" y="538" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,1076) scale(1,-1)">UK codigo : varchar(3)</text>
+			<rect x="350" y="435" width="145" height="60" rx="4" ry="4" style="stroke: rgb(9%,20%,30%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="350" y="472" width="145" height="23" style="stroke: rgb(9%,20%,30%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,20%,30%); fill-rule: evenodd;"/>
+			<text x="357" y="480" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,960) scale(1,-1)">DDD</text>
+			<text x="357" y="458" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,916) scale(1,-1)">PK id</text>
+			<text x="357" y="448" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,896) scale(1,-1)">UK codigo : varchar(3)</text>
+			<rect x="350" y="300" width="145" height="105" rx="4" ry="4" style="stroke: rgb(9%,20%,30%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="350" y="382" width="145" height="23" style="stroke: rgb(9%,20%,30%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,20%,30%); fill-rule: evenodd;"/>
+			<text x="357" y="390" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,780) scale(1,-1)">TELEFONE_EMPRESA</text>
+			<text x="357" y="368" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,736) scale(1,-1)">PK id</text>
+			<text x="357" y="358" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,716) scale(1,-1)">FK empresa_id</text>
+			<text x="357" y="348" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,696) scale(1,-1)">FK ddi -&gt; ddi.codigo (UK)</text>
+			<text x="357" y="338" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,676) scale(1,-1)">FK ddd -&gt; ddd.codigo (UK)</text>
+			<text x="357" y="328" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,656) scale(1,-1)">numero : varchar(12)</text>
+			<rect x="350" y="170" width="145" height="90" rx="4" ry="4" style="stroke: rgb(9%,20%,30%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="350" y="237" width="145" height="23" style="stroke: rgb(9%,20%,30%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,20%,30%); fill-rule: evenodd;"/>
+			<text x="357" y="245" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,490) scale(1,-1)">EMAIL_EMPRESA</text>
+			<text x="357" y="223" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,446) scale(1,-1)">PK id</text>
+			<text x="357" y="213" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,426) scale(1,-1)">FK empresa_id</text>
+			<text x="357" y="203" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,406) scale(1,-1)">email : varchar(150)</text>
+			<text x="357" y="193" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,386) scale(1,-1)">UK empresa_id + email</text>
+			<rect x="350" y="0" width="145" height="100" rx="4" ry="4" style="stroke: rgb(9%,20%,30%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="350" y="77" width="145" height="23" style="stroke: rgb(9%,20%,30%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,20%,30%); fill-rule: evenodd;"/>
+			<text x="357" y="85" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,170) scale(1,-1)">CATEGORIA</text>
+			<text x="357" y="63" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,126) scale(1,-1)">PK id</text>
+			<text x="357" y="53" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,106) scale(1,-1)">UK descricao : varchar(100)</text>
+			<text x="357" y="43" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,86) scale(1,-1)">natureza : char(1)</text>
+			<text x="357" y="33" style="font-family: Helvetica; font-size: 8px;fill: rgb(9%,20%,30%); stroke:none;" transform="translate(0,66) scale(1,-1)">CHECK R ou D</text>
+		</g>
+	</g>
+</svg>

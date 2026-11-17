@@ -1,0 +1,13 @@
+VERIFICACAO DE COMPARTILHAMENTO
+Copia limpa do indice Git, JDK 21 com alvo Java 17, PostgreSQL 18 temporario na porta 5546
+
+OK | Copia limpa dos arquivos preparados, sem credenciais, IDE ou compilados; caminho com espacos
+OK | Projeto Maven compilado a partir da copia, com bytecode Java 17
+OK | PostgreSQL temporario novo, sem banco ou perfis anteriores, apenas na porta 5546
+OK | PrepararBanco criou 14 tabelas, tipo original de 8 campos, 3 logins, 2 empresas, 4 contas e 20 lancamentos
+OK | Menu abriu com as credenciais novas: extratos, composto, tres perfis, interrupcao real e rollback preservaram a carga
+OK | Verificacao de integracao T4A a T4D passou na instalacao nova, incluindo COMMIT, ROLLBACK e interrupcao
+OK | Repetir a preparacao nao reaplicou os dados iniciais nem apagou os cadastros
+OK | Configuracoes e credenciais originais preservadas; nenhum teste de escrita usou a porta 6666
+
+Todos os cenarios passaram. O Maven usou dependencias ja disponiveis no cache local; outro computador precisa de internet na primeira importacao.

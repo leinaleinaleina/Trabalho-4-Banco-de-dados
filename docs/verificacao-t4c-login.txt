@@ -1,0 +1,15 @@
+VERIFICACAO T4C - SQL, RESULTADOS E ERROS ORIGINAIS
+PostgreSQL temporario, porta 5545; JDK 21, alvo Java 17
+
+OK | ID 1: SQLs executados, resultados reais e mensagem original de erro quando aplicavel
+OK | ID 2: SQLs executados, resultados reais e mensagem original de erro quando aplicavel
+OK | ID 3: SQLs executados, resultados reais e mensagem original de erro quando aplicavel
+OK | Troca entre os tres perfis na mesma execucao, sem carregar permissoes do administrador
+OK | Validacao de IDs e retorno ao menu principal
+OK | Cancelamento por :voltar
+OK | Fim da entrada apos o teste encerra sem deixar registros ou transacao pendente
+OK | Permissoes reais preservadas: admin completo, leitor sem escrita e operador sem DELETE
+OK | Conteudo das quatorze tabelas identico antes/depois de todas as demonstracoes
+OK | RETURNING exibe valores reais modificados pelo servidor, nao copias dos dados de entrada
+
+Somente sequencias de IDs podem avancar durante INSERT seguido de ROLLBACK.

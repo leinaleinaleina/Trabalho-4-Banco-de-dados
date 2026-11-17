@@ -1,0 +1,11 @@
+VERIFICACAO DA SEPARACAO SERVICE / DAO
+PostgreSQL temporario, porta 5545
+
+OK | DAOs sem controle de transacao e sem abertura ou fechamento de Connection
+OK | Services assumem a conexao e as decisoes de COMMIT e ROLLBACK
+OK | UPDATE falha apos INSERT bem-sucedido: service desfaz o lancamento e preserva o saldo
+OK | Falha no telefone desfaz empresa e e-mail ja inseridos na mesma conexao
+OK | Empresa, endereco composto, e-mail e telefone confirmados juntos pelo EmpresaService
+OK | Saldos e lancamentos continuam consistentes apos sucesso e falha
+
+Todos os testes passaram; banco da porta 6666 preservado.
